@@ -1,1 +1,21 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<BugReport>
+  <Title>When you click on the Register button on the home page, the registration form doesn't open</Title>
+  <Project>The website ABC</Project>
+  <Severity>Blocker</Severity>
+  <Priority>High</Priority>
+  <Status>Open</Status>
+  <Author>Alexander Kanoda</Author>
+  <Performer>Thomas Anderson</Performer>
+    <Step to reproduce>
+      <step 01>Open the website url.....</step 01>
+      <step 02>Left clik the button Registration</step 02>
+    </Step to reproduce> 
+  <Expected result>
+  <ER 01>Pressing the register button opens the registration form</ER 01>
+  <ER 02>The user fills in the form</ER 02>
+  <ER 03>The user registers on the website</ER 03>
+  </Expected result>
+</BugReport>
+
 
