@@ -11,7 +11,7 @@
  9.  Создать файл preferences.xml: `touch preferences.xml`
  10. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML: `vim preferences.xml`
  11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML: `touch skills.xml`
- 12. Сделать коммит в одну строку: `git add preferences.xml git commit -m 'add preferences.xml , add skills.xml'`
+ 12. Сделать коммит в одну строку: `git add preferences.xml && git commit -m 'add preferences.xml , add skills.xml'`
  13. Отправить сразу 2 файла на внешний репозиторий: `git add . git commit -m "..."git push`
  14. На веб интерфейсе создать файл bug_report.xml: `нажать кн. "Eddit this file"`
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе: `нажать кн. "Commit new file"`
